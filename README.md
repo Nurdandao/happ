@@ -1,8 +1,5 @@
 Our first commit
-<html>
-  <head>
-    <b>Nurdana Khalelkyzy</b>
-  </head>
-</html>
-<b>Mutan Damira</b>
-<Added></Added>
+
+<li><b>Nurdana Khalelkyzy</b></li>
+
+<li><b>Mutan Damira</b></li>
