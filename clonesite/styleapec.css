@@ -1,0 +1,120 @@
+body {
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0%;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #3d3d3d88;
+}
+.navbar a {
+    float: center;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+li {
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 2%;
+}
+#backgr {
+    background-color: black;
+    background-image: url(images/background.webp);
+    opacity: 90%;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    color: white;
+}
+button {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(3, 80, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 5px;
+    border-color: #3d3d3d;
+    font-weight: 800;
+    color: aliceblue;
+}
+button:hover {
+    background-color: rgb(0, 204, 44);
+}
+h2 {
+    background-color: rgba(0, 151, 20, 0.753);
+    padding: 20px;
+}
+p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 2%;
+
+}
+footer {
+    background-color: #1b1b1b;
+    color:white;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    padding: 10px;
+    position: bottom;
+    width: 100%;
+    bottom: 0;
+    font-size: medium;
+    margin-top: 50px;
+}
+.footer1 {
+    background-color: #1b1b1b;
+    color:white;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-size: medium;
+    margin-top: 30px;
+}
+.bottom {
+    text-align: center;
+}
+a {
+    color: rgb(16, 105, 4);
+    border-bottom: #9aff9a;
+}
+a:hover {
+    color: #000000;
+}
+a:active {
+    color: rgb(0, 31, 116);
+}
+.partners {
+    columns: 2;
+    column-gap: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+table, th, td {
+    border: #a0a0a0;
+    border-style: outset;
+    margin: 2%;
+}
+.pcenter {
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+fieldset{
+    margin-top: 2%;
+}
